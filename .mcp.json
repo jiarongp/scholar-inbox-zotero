@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "scholar_inbox": {
+      "type": "http",
+      "url": "https://mcp.scholar-inbox.com/mcp"
+    }
+  }
+}
